@@ -1,0 +1,27 @@
+[
+    {
+      "name": "example_package",
+      "version": "1.0.0",
+      "description": "An example package for Cobra.",
+      "url": "https://example.com/packages/example_package.zip"
+    },
+    {
+      "name": "math_utils",
+      "version": "2.1.0",
+      "description": "Mathematical utilities for complex calculations.",
+      "url": "https://example.com/packages/math_utils.zip"
+    },
+    {
+      "name": "string_utils",
+      "version": "1.2.3",
+      "description": "String manipulation utilities for text processing.",
+      "url": "https://example.com/packages/string_utils.zip"
+    },
+    {
+      "name": "network_tools",
+      "version": "3.0.0",
+      "description": "Tools for working with network protocols and data.",
+      "url": "https://example.com/packages/network_tools.zip"
+    }
+  ]
+  
